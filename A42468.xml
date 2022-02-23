@@ -1,0 +1,1361 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The churche[s] publick order argued and opened by a second confere[nce] betweene Silvanus and Himeneu[s] ... wherein the ordinances of the Church of Engla[nd for] Gods publick worship are proved to beagreeable to Gods sacred word / by L.G. [i.e. I.G.], a continuall friend and lover ofthe tr[uth].</title>
+            <author>J. G.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 76 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42468</idno>
+            <idno type="STC">Wing G33</idno>
+            <idno type="STC">ESTC R42041</idno>
+            <idno type="EEBO-CITATION">23280012</idno>
+            <idno type="OCLC">ocm 23280012</idno>
+            <idno type="VID">109524</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42468)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109524)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1701:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The churche[s] publick order argued and opened by a second confere[nce] betweene Silvanus and Himeneu[s] ... wherein the ordinances of the Church of Engla[nd for] Gods publick worship are proved to beagreeable to Gods sacred word / by L.G. [i.e. I.G.], a continuall friend and lover ofthe tr[uth].</title>
+                  <author>J. G.</author>
+               </titleStmt>
+               <extent>[8], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W.W.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedications signed: I.G. and J.G.; "To the reader" signed: I.G.</note>
+                  <note>Imperfect: cropped and stained, with loss of print.</note>
+                  <note>Reproduction of the original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Liturgy --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109524:1" rendition="simple:additions"/>
+            <p>THE CHVRCHE PVBLICK ORDER</p>
+            <p>Argued and opened at a ſecond Confere<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> betweene <hi>SILVAN<g ref="char:V">Ʋ</g>S</hi> and <hi>HIMENE<g ref="char:V">Ʋ</g>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Diſcuſſing foure queſtions.
+<list>
+                  <item>1. <hi>Of Ministers, Officers and People.</hi>
+                  </item>
+                  <item>2. <hi>Of the time or times of meeting.</hi>
+                  </item>
+                  <item>3. <hi>Of the place, or places where.</hi>
+                  </item>
+                  <item>4. <hi>Of the worſhip it ſelfe both for matter and m<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                     </hi>
+                  </item>
+               </list>
+            </p>
+            <p>Wherein the Ordinances of the Church of <hi>Engla<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> GODS publick Worſhip, are proved to be agreeabl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to GODS Sacred Word.</p>
+            <p>By <hi>I. G.</hi> a continuall friend, and lover of the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+            <q>
+               <bibl>PSALM. 74.4.</bibl>
+               <p>Thine enemies roare in the midſt of thy Congregations, &amp;c</p>
+            </q>
+            <q>
+               <bibl>LAMEN. 4.2,</bibl>
+               <p>Among all her lovers ſhe hath <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to comfort her, all <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> have dealt treacherouſly with her, they are becom<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>mies.</p>
+            </q>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Printed for <hi>W. W.</hi> 1<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>3.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:109524:2"/>
+            <pb facs="tcp:109524:2"/>
+            <head>TO His moſt Excellent Soveraigne Lord, Charles, of England, Scotland, France, and Ireland KING, the juſt De<g ref="char:EOLhyphen"/>fender of the true Faith.</head>
+            <opener>
+               <salute>Moſt valorous and religious King,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Our Magnanimous and Heroi<g ref="char:EOLhyphen"/>call ſpirit in Martiall and Mi<g ref="char:EOLhyphen"/>litary affaires; And your zeale, fidelity, and unſhaken unmoveable conſtancy in the eſtabliſht Religion of Gods Church in this Your Engliſh Nation, fills the hearts of your loyall ſubjects, the Lords ſervants to praiſe the God of Heaven for You; And to pray earneſtly, that hee, that hath covered your head in the day of battell,
+<pb facs="tcp:109524:3"/>would bee alwayes as tender over You as the Apple of his owne eye, and ſo preferre You as the Signet on his right hand, and that the gifts of Gods wiſdom and grace may be doub<g ref="char:EOLhyphen"/>led on You his Anointed ſervant.</p>
+            <p>Your gracious acceptance of my former endeavours hath incouraged mee not only (to compoſe this ſhort diſcourſe of the Churches publike Order, for the true worſhip of God, which declares the outward form of the Chur<g ref="char:EOLhyphen"/>ches ſervice, as the former Treatiſe Dedica<g ref="char:EOLhyphen"/>ted to Your Majeſty doth the inward truth of the Church it ſelfe) But alſo to preſume to preſent it to Your Royall and ſerious con<g ref="char:EOLhyphen"/>ſideration, for as much as many of Your honeſt Subjects want the knowledge of it; And all Your factious people, oppoſe, contemne, and hate it, even thoſe weeds ſpring up amongſt the good Corne; As Brownists, Anabaptiſts, Papiſts, Familiſts, Antinomiſts, with ſolly and Semi Separatists, all which having
+<pb facs="tcp:109524:3"/>not their parts in the feare, the ſorrow, the povertie, and preparation ſpirituall, come all ſhort of Gods Spirits teſtimony, although<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> like Mountebankes in market-places they lift up their voyces, avouching the goodneſſe and proofe of their medicines, which notwith<g ref="char:EOLhyphen"/>ſtanding all their brags and vaine boasting cannot give a foote to the lame, nor an eye to the blinde; And compared with truth, are at of them found, poyſonous doctrines of death that instead of ſaving health, wee are mad<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thereby deadly ſicke: And were it not fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that unparalleld veritie of Your Majestie confeſsions, and reſolved reſolutions, we have for our remarkable examples, next an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> immediately under him, that is our goo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> GOD over all bleſsed for ever, we<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> might fall into the ſame Conſumption <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> our ſoules in matter of Religion, as now w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are in our lives and estates, for falſe corrup<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and lying doctrins, have ſo darkned the cl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:109524:4"/>light of the pure truth like ſmothering fire and ſmoake, have deſtroyed many weake Chri<g ref="char:EOLhyphen"/>ſtians, yea ſuch an univerſall deſtruction, as the plagues of Aegypt made in that land, on <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an and beaſt, fruitfull Trees and every <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reene hearbe, but bleſſed bee the Lord for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he good will of him that dwelleth in the buſh, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat hath bleſſed Your Royall Head, and Heart, like the head of <hi>JOSEPH,</hi> that ſtill <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou have beene the ſame Anointed with the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame truth, in which truth, the Children <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hereof are your trueſt loyal'ſt and faithfull'ſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ubjects, of whom although the moſt unworthy <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> your Highneſſe ſervant that ſuffereth and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eleeveth with you,</p>
+            <closer>
+               <signed>I. G.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:109524:4"/>
+            <head>TO The Right Honourable the LORDS and Commons of the High COURT OF PARLIAMENT.</head>
+            <p>ONE unknowne to the moſt of You, yet dayly praying for You all, that the God of Heaven, the alone giver of the beſt Counſell would ſit with You, to guide and counſell You all, in all things for the pre<g ref="char:EOLhyphen"/>ſent, and to come; As thoſe great bleſſings through his bleſſing You have effected for Vs, already in ſuppreſſing the pride, the Idleneſſe, and ſuperſtition of the Clergie, the deſtruction of the abominable &amp; popiſh innovations, the annihilating of the great oppreſſing Courts of High Commiſſion, and Star-Chamber;
+<pb facs="tcp:109524:5"/>And that of honour which was great<g ref="char:EOLhyphen"/>ly diſhonoured, and above all that incomparable Act of the Triennial Parliament, a permanent bene<g ref="char:EOLhyphen"/>fit to Gods Church, for a ground and foundation of continuall Iuſtice and Religion, that reforma<g ref="char:EOLhyphen"/>tion both of Magiſtrates and Miniſtery in ruling and teaching may be perfected, and ſuch order and manner appointed for the peoples obedience, that unitie and concord in the truth may bee harmo<g ref="char:EOLhyphen"/>nious throughout this kingdome, And our gra<g ref="char:EOLhyphen"/>cious, King, with Your moſt honourable Aſſembly, and the whole Nation bleſſed; And becauſe the beſt reformation, and perfect reſtitution are ſpirituall things; the one, the new making or re-begetting of mankind unto <hi>God,</hi> the other the inheritance or pur<g ref="char:EOLunhyphen"/>chaſed poſſeſſion of Gods Children, called in Scrip<g ref="char:EOLhyphen"/>tures regeneration, and the perfection, and reſtitu<g ref="char:EOLhyphen"/>tion, both which are the ſubject of my diſcourſe, in my former Treatiſe Dedicated to Our dread So<g ref="char:EOLhyphen"/>veraigne, His Gracious Majeſtie. And in regard that life is hid for the preſent, and thoſe truths are inward and ſpirituall, whoſe heavenly nature is not apprehended and underſtood by all Miniſters, and I am certaine by fewer of the people: but they all for the moſt part looke for outward forme, and
+<pb facs="tcp:109524:5"/>things exterior being ſuch our ſelves for the grea<g ref="char:EOLhyphen"/>ter number.</p>
+            <p>Right Honourable (the miſtake of the Scrip<g ref="char:EOLhyphen"/>tures are ſo general in this particular in applying the teſtimony of the Holy Prophets, who generally ſpeake and altogether agree in promiſing, and aſſur<g ref="char:EOLhyphen"/>ing the eternall heavenly and perfect eſtate to bee fulfilled and accompliſhed at the Reſurrection, the Glorious comming of our Lord to judgment. Not<g ref="char:EOLhyphen"/>withſtanding, ſuch is the daily and continuall miſ<g ref="char:EOLhyphen"/>priſion of thoſe precious promiſes to a worldly temporall and conceited eſtate here in this life by many ſeverall factions; ſome of which, as in this, ſo in my former Treatiſe I have inſtanced) this mi<g ref="char:EOLhyphen"/>ſtaking, I ſay hath conſtrained me, and as I am per<g ref="char:EOLhyphen"/>ſwaded in bounden dutie, I am obliged, to De<g ref="char:EOLhyphen"/>dicate and preſent in all humble ſubmiſſion this ſhort Treatiſe unto Your Grave wiſdomes, that by Your favourable countenance and reſpect to a thing ſo meane and from the hands of one mea<g ref="char:EOLhyphen"/>ner; My Brethren and fellow Citizens may come to ſee that Your prudent, and Honoura<g ref="char:EOLhyphen"/>ble predeceſſors ſince the time of Reformation, from that myſtery of iniquitie, and ſuperſtiti<g ref="char:EOLhyphen"/>ous darkeneſſe of Anti-Chriſtian Poperie, that
+<pb facs="tcp:109524:6"/>GOD Almightie hath ſo aſſiſted them by the ayde of the HOLY GHOST, that the Mini<g ref="char:EOLhyphen"/>ſters Ordination, the time, place, the matter and manner preſcribed for Gods publicke worſhip, (as is within this ſhort Treatiſe briefely touched) is agreeable to GODS holy Word, for ſo farre as they have gone; And for the reſt in a fur<g ref="char:EOLhyphen"/>ther and larger manner, Or for the better and more perfect ordering of what is already done, the LORD of Heaven direct the heart of Our Gracious KING with You His greateſt and beſt Councell; And give unto You all the ſpirits of zeale, and feare of the LORD, ſo to Decree and Enact, that the Truth, the power and Sincerity of the Goſpell may bee the honour and glory of this Kingdome, with the Ordinances of GOD in the purity thereof, all miſ-underſtanding be<g ref="char:EOLhyphen"/>tweene His Royall MAIESTIE, and Your ſelves reconciled, and all evill Councellors on both ſides removed, all diſſentions, diſcords and diſaffections amongſt us people compoſed. And all of Vs againe, KING, Parliament and people, made one, as the Truth and Our GOD thereof is one.</p>
+            <p>Finally my humble prayer is that Your Wiſ<g ref="char:EOLhyphen"/>domes
+<pb facs="tcp:109524:6"/>would pardon my boldneſſe; And that You would be pleaſed to conſtrue all that I have done or ſaid to be enti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ely and ſincerely from the bottome of my heart, for the glory of GOD, the Honour of KING and Parliament, and the dutie of love I owe unto my Chriſtian Neigh<g ref="char:EOLhyphen"/>bours in the fellowſhip and unitie of the Truth; And I ſhall ever remaine praying for you.</p>
+            <closer>
+               <signed>J. G.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:109524:7"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>Chriſtian Friend;</salute>
+            </opener>
+            <p>AS Gods love hath beene free to me, ſo my hearty deſire is to manifeſt my love to all that are his: And as in all things, I have received of him, ſo eſpecially of the beſt bleſſings, that we may all proſper, even as our ſoules proſper. And therefore, the firſt thing I communicated to the publick, was a briefe deſcription of the Kingdome of God, and the Children thereof, their ſpirituall conditions, and holy perſons, their eſtate of ſuffering, and that of triumphing; And although therein I have ſhewed, and ſet it forth (yet briefly) the great things of Gods Law or Covenant, yet ſome have accounted it a vaine thing, ſo that there was ſome cauſe to have ſpoken no more. Yet the ge<g ref="char:EOLhyphen"/>nerall breach of conformitie, and uniforme walking in the pub<g ref="char:EOLhyphen"/>lick Ordinances of the Church of <hi>England,</hi> hath ſo grieved my ſpirit, that I am conſtrained through the love I beare to Gods people therein I ſay, to make this briefe diſcourſe following. Wherein I have kept my ſelfe cloſe to the Ordinances themſelves, examining them by ſuch rules in Scriptures, as do apparently warrant them: ſo that if all things bee conſidered, there is nothing impoſed in the publick, by Authoritie, that doth any way hinder or prejudice the ſpirituall ſinceritie of the true and pure worſhipp of God; therefore beloved let us ſtudie to give God thankes for theſe refor<g ref="char:EOLhyphen"/>mations in the outward, wee doe injoy already, and that the ſame God would direct the ſame power of King and Parliament, to goe on to a full perfection of what is begun. And in the meane
+<pb facs="tcp:109524:7"/>while wee to demeane our ſelves in obeying, praying, and ſtudying to ſhew our ſelves approved unto God and men, giving no offend in any thing that our profeſsion be not blamed; And as there <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> more truth in the Doctrine of the Church of <hi>England,</hi> then in an other profeſs<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on of Religion, I know of, ſo let our Uniformity an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> agreements in all other outward Ordinances of publicke commun<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> on exceed theirs, And let us endeavour to manifest our holy in<g ref="char:EOLhyphen"/>ward and ſpirituall communion by our external union, ſo ſhall <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ever be yours that is the Lords.</p>
+            <closer>
+               <signed>I. G.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:109524:8"/>
+            <pb n="1" facs="tcp:109524:8"/>
+            <head>THE CHVRCHES PVBLICK ORDER.</head>
+            <argument>
+               <p>Wherein the Ordinances of the Church of <hi>England</hi> for Gods publick worſhip, are proved to bee agree<g ref="char:EOLhyphen"/>able to Gods Word: argued and opened at a ſecond conference between <hi>Silvanus</hi> and <hi>Hymeneus.</hi>
+               </p>
+            </argument>
+            <sp>
+               <speaker>Hymeneus.</speaker>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">W</seg>Ell met friend</hi> SILVANUS, <hi>I have often thought of our diſcourſe when we were laſt together.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sil.</speaker>
+               <p>Sir, I am glad if it have given you occaſion for your better meditations, that Truth and the God thereof, may have any glory by my poore endeavours.</p>
+            </sp>
+            <sp>
+               <speaker>Hym.</speaker>
+               <p>
+                  <hi>I muſt confeſſe that I have reviewed it ſince it hat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> beene publiſhed; and I am perſwaded your diſcription both of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Chriſtian in particular, and the true Church in generall, is a<g ref="char:EOLhyphen"/>greeable to Gods Word: and that the promiſes to the Patriarch Prophets, and Apoſtles are truly expounded, of which I deſire <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> have further conference hereafter.</hi>
+               </p>
+            </sp>
+            <pb n="2" facs="tcp:109524:9"/>
+            <sp>
+               <speaker>Silv.</speaker>
+               <p>It is but a breviation of thoſe many particulars mentioned, but if the Scriptures be examined it will make the truth more manifeſted.</p>
+            </sp>
+            <sp>
+               <speaker>Hym.</speaker>
+               <p>
+                  <hi>You have ſpoken nothing of the outward condition of the Church, neither of Miniſter nor people, which are things I would faine have your judgment in.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sil.</speaker>
+               <p>The true and inward Chriſtian onely knowes how rightly and truely to order, ſtate, and diſpoſe of ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ward things; and the Chriſtian without or outwardly knowes not how to order one or other, as Saint <hi>Paul</hi> ſaith, <hi>the ſpi<g ref="char:EOLhyphen"/>rituall man or he that is ſpirituall diſcerneth all things,</hi> 1 Cor. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2.15.</p>
+            </sp>
+            <sp>
+               <speaker>Hym.</speaker>
+               <p>
+                  <hi>I would pray you to reſolve me of thoſe foure particu<g ref="char:EOLhyphen"/>lars that concerne the outward estate of the Church: Firſt, of the Miniſters, Officers, and people, of each Congregation or Pa<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>riſh: Secondly, of the time or times of Gods publick worſhip: Thirdly, the place or places for their meetings: Fourthly the worſhip it ſelfe, both for the matter and manner?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sil.</speaker>
+               <p>Expreſſe your meaning in the firſt queſtion.</p>
+            </sp>
+            <sp>
+               <speaker>Hym.</speaker>
+               <p>
+                  <hi>For as much as you deny that the people are to call their Miniſter, ſhew me how they ſhould be called by the Scriptures?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sil.</speaker>
+               <p>It ſeemes by calling of Miniſters, you meane ordi<g ref="char:EOLhyphen"/>nation of Miniſters, and ſo I underſtood you the laſt time we ſpake of your new faſhion in New <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Hym.</speaker>
+               <p>
+                  <hi>Yes that is my meaning.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sil.</speaker>
+               <p>We finde it written, that our Lord Himſelfe, <hi>Marke</hi> 3.14. Ordained, that is, ſent his Twelve Apoſtles: and Saint <hi>Luke</hi> ſaith, he gave them power and authoritie, <hi>&amp;c.</hi> and ſent them to preach the kingdome of God, <hi>Luke</hi> 9.1. 2. And this Evangeliſt ſa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h, the Lord appointed or ſent other ſeventy alſo, and further teacheth us to pray there<g ref="char:EOLhyphen"/>fore the Lord of the Harveſt, that he would ſend forth la<g ref="char:EOLhyphen"/>bourers
+<pb facs="tcp:109524:9"/>into his harveſt, <hi>ver.</hi> 2. So likewiſe after Chriſt, Aſſenſion, the Apoſtles that were ſent by himſelfe, ſent o<g ref="char:EOLhyphen"/>thers: And ſo this ſame Evangeliſt witneſſes in the <hi>Acts</hi> that the Apoſtles prayed and laid their hands on <hi>Stephe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> and <hi>Philip</hi> and others, and did thereby ordaine and ſen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> them into the miniſtery, as well as into the Deaconſhi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Acts</hi> 6.6. And indeed, wonderfull and powerfull they wer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in their Miniſterie, as he afterwards ſheweth: ſo the Apo<g ref="char:EOLhyphen"/>ſtle <hi>Paul</hi> affirmeth, that <hi>Timothie</hi> received the gift and au<g ref="char:EOLhyphen"/>thoritie to preach, thorow the laying on the hands of t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Miniſters; which he there calls the <hi>Presbyterie,</hi> 1 <hi>Timo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> 4.14, 15. And ſo alſo himſelfe the ſame Apoſtle in par<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>cular ſpeakes to <hi>Timothy,</hi> 1 <hi>Tim.</hi> 1.6. Wherefore I<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> put thee in remembrance, that thou ſtirre up the gift of G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that is in thee, by the putting in of my hands: and ſo <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Apoſtle gives him direction alſo for his ordayning ot<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Miniſters, 1 <hi>Timothy</hi> 5.22. <hi>Lay thy hands ſuddenly on<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> man, neither bee partaker of other mens ſinnes, keepe thy <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> pure.</hi>
+               </p>
+               <p>According to theſe Scriptures the Church of <hi>Eng<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>
+                  </hi> hath ordained and appointed, that none but ſuch me<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are ordained Miniſters, ſhall have power and authorit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the ordination of Miniſters.</p>
+            </sp>
+            <sp>
+               <speaker>Hym.</speaker>
+               <p>
+                  <hi>Theſe Scriptures you alleadge now, and that befor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> our firſt conference, Acts</hi> 14.23. <hi>And they ordained them E<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> in every Church, that is, Preachers as you there obſerved, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Yet not one nor all thoſe places doe ſhew the forme they <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> though they prove the thing they practiſed.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Silv.</speaker>
+               <p>Neither doe the Scriptures lay downe the f<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of Marriage, although it bee honoured beyond con<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by God Himſelfe in Paradice, <hi>Gen.</hi> 2.22. As alſo b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Lords firſt miracle, <hi>Iohn</hi> 2.1, 11. And the author <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb facs="tcp:109524:10"/>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ebrewes</hi> layes it down as an Ordinance for ever: Marriage <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> honourable in all, <hi>Hebr.</hi> 13.4. and yet in all the Scrip<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>es old or new, we doe not finde a forme for the manner, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or perſons appoined to celebrate the matter, but ſome <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nes wee finde the Parents did performe it in the Patri<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>hs times, and in the Iudges times, the Magiſtrates; and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> other places it is ſaid, they tooke unto them Wives as <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> they married themſelves; for ſo it is ſaid, <hi>Gene.</hi> 6.3. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow becauſe there is not a forme of words in Scripture, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he holy ordinance of Marriage waſte and voyd? No, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inke none will be ſo voyd of Religion to ſay ſo, but <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> it not rather prove that it is left by the Authoritie Gods Word to the liberty of Chriſts Church, to de<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ine, aſſigne, and order in every Countrey, as I ſhall <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> anon, an Act of Parliament of this Church in ano<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> caſe.</p>
+            </sp>
+            <sp>
+               <speaker>Hym.</speaker>
+               <p>
+                  <hi>But hath the Church of England appointed a forme <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rdination, as it hath done for Marriage?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>l.</hi>
+               </speaker>
+               <p>Yes, ſuch holy exhortations, divine inſtructions, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffectuall expreſſions, as there cannot be better thought <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Hym.</speaker>
+               <p>
+                  <hi>I pray let me heare your knowledge of it?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi>
+               </speaker>
+               <p>As the ignorance of Scriptures is the cauſe of all <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and faction, ſo alſo the ignorance of thoſe whole<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Lawes and Ordinances which the Church hath pro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> in many particulars, makes many have a worſe opi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> of the government of the Church, then otherwiſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ould poſſibly have.</p>
+               <p>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nnot but admire the ſolemne, grave, and honou<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orme of Matrimony, the Scriptures for inſtru<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ppointed to be read, the holy exhortations and ad<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ons, the union pronounced in the name of the Fa<g ref="char:EOLhyphen"/>ther,
+<pb facs="tcp:109524:10"/>the Son and the Holy Ghoſt, the concluding the ord<g ref="char:EOLhyphen"/>nance with pertinent bleſſings; I ſay, I cannot choſe but mor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and more admire it, becauſe now a many of unadw<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſed Miniſters, uſe unworthy and unwarrantable forme thereby couzening and cheating thoſe they pretend t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Marry, for except the words are uſed in the manner ap<g ref="char:EOLhyphen"/>pointed by the Law, the Law knowes them not marrie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> but the Wife in the ſence of the Law is accounted a who<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and the Children Baſtards, and the next of kinne will <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> cover all perſonall eſtate, and inheritance: And the re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſon is cleare, becauſe the Law knowes nor allowes of a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> other forme for Marriage but that enacted. Oh, woe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to ſuch unwiſe Miniſters, that have done this wrong a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> injury to the Children unborne, by ſeducing their ignor<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> Parents.</p>
+               <p>But to give you ſatisfaction in that you deſire concer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ing Ordination of Miniſters, the Church hath appoint<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> a very good rule and forme for it; many pithy and apt pr<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ers unto God for His bleſſiing, many Scriptures to bee r<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> agreeing to the Ordinance. As Saint <hi>Pauls</hi> counſell to <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>mothy,</hi> and the words and geſture the Apoſtles uſed wh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> they ordained <hi>Stephen</hi> and the reſt, <hi>Acts</hi> 6. as alſo <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> words of our Lord, <hi>Iohn</hi> 10.</p>
+               <p>And diverſe queſtions are made to them that are to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ordained ſuch as theſe; are you aſſured or doe you bele<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> you are inwardly moved by the Holy Ghoſt to take up<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> you this office and miniſtration, to ſerve God for the p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>moting his glory, and the edifying his people? And he <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſwers, I beleeve ſo.</p>
+               <p>Alſo hee is askt, doe you thinke you are truly called <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>cording to the will of our Lord Ieſus Chriſt; doe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> unfainedly beleeve all the Canonicall Scriptures of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb facs="tcp:109524:11"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ld and New Teſtament, and will you apply your ſelfe to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>udy, read, and preach the ſame; they promiſe they will. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> And further alſo, to lay aſide the ſtudies of the World <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the fleſh, &amp; to endeavour by good life and holy exam<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, to edifie Chriſts flock: Theſe and many more are the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>queſtions and exhortations; then doth the Miniſter ordain<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng ſpeake to the whole Congregation, declaring to them <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Ordination; and there being no cauſe ſhewed againſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y the people, hee proceeds in prayer, and layes on his <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d upon him, thereby giving him power to preach and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ficiate in all other adminiſtrations.</p>
+            </sp>
+            <sp>
+               <speaker>Hym.</speaker>
+               <p>
+                  <hi>This forme is very good, and ſeems to mee warran<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e, but what rule hath the Church of England for ordination <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>other Officers?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sil.</speaker>
+               <p>For ſuch as have the place of ruling Elders, com<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>only called Church-wardens, and for ſuch as receive and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tribute to the neceſſity of the poore, commonly called <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erſeers, the Miniſter and Congregation doe chooſe <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>m together by moſt voyces, according to Act of Par<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ment.</p>
+            </sp>
+            <sp>
+               <speaker>Hym.</speaker>
+               <p>
+                  <hi>But how are the people or Congregation ordered?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Silvanus.</speaker>
+               <p>All Pariſhes, or Congregations, are <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orporated and Ordayned by Act of Parliament: <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e law gives power to the Miniſter and Church<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ficers to examine, and ſee that obedience by yeelded to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſuch things as concerne the time, the place, the manner <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> matter of Gods worſhip in publick, and accordingly <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>acquit them if innocent, or to indite or preſent them <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uiltie. <hi>Anno</hi> 1. <hi>Edw.</hi> 6. <hi>Anno</hi> 1. <hi>Eliz.</hi> 2.</p>
+            </sp>
+            <sp>
+               <speaker>Hym.</speaker>
+               <p>
+                  <hi>I pray Sir, reſolve mee in my ſecond queſtion, how a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e may be commanded, for it ſeemes to me, the Apoſtles doct<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> teacheth otherwiſe, Galath.</hi> 4.10, 11. <hi>Where he ſaith, Yee <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ve dayes and moneths and times and yeares, I am afraid of
+<pb n="7" facs="tcp:109524:11"/>of you leſt</hi> I <hi>have beſtowed upon you labour in vaine.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sil.</speaker>
+               <p>The Apoſtle being rightly underſtood, doth not write to the <hi>Galatians</hi> againſt a time or times to be appoin<g ref="char:EOLhyphen"/>ted by authority for the publick worſhip of God, but hee teacheth againſt the uſe of ſuch Ceremonies, that the cleare and open manifeſtation of the Truth and ſubſtance thereof made weake, beggerly, and uſeleſſe: and more principal<g ref="char:EOLhyphen"/>ly, hee directly preacheth againſt them, as ſome thereby and in Obedience to ſought life and juſtification; againſt this the Apoſtle concludes peremptorily to the <hi>Romans, Romans</hi> 3 28. in theſe words, <hi>Wee conclude therefore that a man is juſtified by faith without the workes of the Law:</hi> and hee accepts none to the <hi>Galatians,</hi> but affirmeth, that who<g ref="char:EOLhyphen"/>ſoever ſeeks juſtification by the Law, he is fallen from Grace, <hi>Gala.</hi> 5.4. And aggravates it by reduplications as moſt certaine, and a thing never to be queſtioned; the holy Ghoſt bearing witneſſe with him, and therefore ſpeakes in a phraſe never to be repealed, for by the workes of the Law ſhall no fleſh be juſtified, <hi>Gal.</hi> 2, 16.</p>
+            </sp>
+            <sp>
+               <speaker>Hym.</speaker>
+               <p>
+                  <hi>What rule have you then for the time and times of Gods publick worſhip?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sil.</speaker>
+               <p>The firſt day of the week, and all other dayes and times are by Ordinance of the Church appointed, this hath beene the judgement of former times, amongſt the Fathers, as <hi>Hierome, Auſtine,</hi> and <hi>Tertullian;</hi> Maſter <hi>Frith,</hi> and Maſter <hi>Tindall,</hi> amongſt the Martyrs: Maſter <hi>Calvin</hi> and many others in the book called the Harmony of con<g ref="char:EOLhyphen"/>feſſions of moſt or all reformed Churches, <hi>p.</hi> 473, and <hi>pag.</hi> 499. And it is an Act and Statute Law in our Church of <hi>England, Anno</hi> 5. &amp; 6. of <hi>Edw</hi> 6th. <hi>Chap.</hi> the third, in theſe very words, Neither is it to be thought, that there is any certaine time or definite number of days preſcribed in holy
+<pb n="8" facs="tcp:109524:12"/>Scripture, but that the appointment both of the time, and alſo of the number of days is left by the authority of Gods Word, to the liberty of Chriſts Church, to be determined and aſſigned, orderly in every Country by the diſcretion of the Miniſters and Rulers thereof, or as they ſhall judge moſt expedient in the true ſetting forth of Gods glory, and the edification of the people: And it followes, be it ther<g ref="char:EOLhyphen"/>fore enacted by the King our Soveraign Lord with the aſſe<g ref="char:cmbAbbrStroke">̄</g>t of the Lords, <hi>&amp;c.</hi> and the Commons in this preſent Par<g ref="char:EOLhyphen"/>liament aſſembled, and by the authority of the ſame, that all the dayes hereafter mentioned ſhall bee kept and com<g ref="char:EOLhyphen"/>manded to be kept Holy-dayes, and none other, that is to ſay, all Sundaies in the yeare, <hi>&amp;c.</hi> and ſo nameth all the reſt particularly.</p>
+            </sp>
+            <sp>
+               <speaker>Hym.</speaker>
+               <p>
+                  <hi>But you have not a Scripture for this day, nor any of the reſt?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sil.</speaker>
+               <p>For the firſt day of the weeke called Sunday, wee have Apoſtolicall and Primitive example for it, <hi>Acts</hi> 24.7.</p>
+            </sp>
+            <sp>
+               <speaker>Hym.</speaker>
+               <p>
+                  <hi>You know, examples without precepts, binde not in Divine things.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sil.</speaker>
+               <p>Therefore I have ſhewed you before, the Act of Parliament, the command of the Church: And where Mans Ordinance is not againſt Gods command, there St. <hi>Peter</hi> commends ſubjection, in theſe words, <hi>Submit your ſelves to every Ordinance of man for the Lords ſike,</hi> 1 <hi>Peter</hi> 2.13. There is no word in Scripture to command you to faſt the laſt Wedneſday of every moneth, yet your practice ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wes, you thinke you ought ſo to doe, it being commanded.</p>
+            </sp>
+            <sp>
+               <speaker>Hym.</speaker>
+               <p>
+                  <hi>You have fully ſatisfied mee by Scripture, And the Churches Ordinance for the time and times commanded for Gods publick worſhip.</hi>
+               </p>
+               <pb n="9" facs="tcp:109524:12"/>
+               <p>Now pray reſolve my next queſtion, and ſhew me what warrant there is for commanding a place where to meet.</p>
+            </sp>
+            <sp>
+               <speaker>Sil.</speaker>
+               <p>Authority commanding one for the publick, doth not forbid any for the private; And therefore theres much cauſe and reaſon for it, for if there be no place, there can be no meeting.</p>
+            </sp>
+            <sp>
+               <speaker>Hym.</speaker>
+               <p>
+                  <hi>I thinke the Scripture ſpeakes againſt the appointment of a place,</hi> Iohn 4.21. <hi>You ſhall neither in this mountaine nor at Ieruſalem worſhip the Father.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sil.</speaker>
+               <p>Although our Lord did know, and fore-tell to the woman the deſtruction of Ieruſalem, and the diſperſion of both Iewes and Samaritants, and that it ſhould be done by Gods enemies, and Idoll worſhippers, ſo that there ſhould be no true worſhippers, to worſhip in thoſe places, which were the uſuall places of their publick worſhip, intimated in theſe words, verſe 21. <hi>Woman beleeve me the houre com<g ref="char:EOLhyphen"/>meth when yee ſhall neither in this mountaine, nor yet at Ieruſa<g ref="char:EOLhyphen"/>lem worſhip the Father;</hi> Yet it doth not follow, but that in other places the true worſhippers might and ſhould worſhip God in ſpirit and in truth, for ſo much our Lord ſaith ver. 23. <hi>The houre commeth, and now is when the true worſhippers ſhall worſhip the Father in ſpirit and truth,</hi> for the Father ſeek<g ref="char:EOLhyphen"/>eth ſuch to worſhip him: we reade that Our Lord came of<g ref="char:EOLhyphen"/>ten to the Temple, daily teaching the people, often wor<g ref="char:EOLhyphen"/>ſhipping in the Mount of Olives, Hee appointed an upper roome for the celebration of the Paſſeover with his Diſci<g ref="char:EOLhyphen"/>ples, ſo it is ſaid, when the Eleven were together, Chriſt cmae amongſt them; And alſo that they were altogether in the Mount of Olives at our Lords Aſſenſion into Hea<g ref="char:EOLhyphen"/>ven, and they were not to depart from Ieruſalem, but there to waite for the promiſe of the Father; And when the day of Pentecoſt was fully come, they were all with one accord
+<pb n="10" facs="tcp:109524:13"/>in one place. <hi>Peter &amp; Iohn</hi> went up together into the Tem<g ref="char:EOLhyphen"/>ple at the houre of prayer; wee finde <hi>Paul</hi> often in the Sy<g ref="char:EOLhyphen"/>nagogue, and abundance more inſtances to prove the pub<g ref="char:EOLhyphen"/>lick places that Gods people met into worſhip.</p>
+            </sp>
+            <sp>
+               <speaker>Hym.</speaker>
+               <p>
+                  <hi>But wee have no command for any in the New Testa<g ref="char:EOLhyphen"/>ment.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sil.</speaker>
+               <p>No more you have for the time as before is ſhewed, nor for the Femall Sex, or Children of either Sex to be bap<g ref="char:EOLhyphen"/>tized, it is warrant ſufficient, that authority commands them all.</p>
+            </sp>
+            <sp>
+               <speaker>Hym.</speaker>
+               <p>
+                  <hi>I pray what reaſon is there to call the place appointed, for publick worſhip the Church? for you have proved before in our fir<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nference,</hi> Peter 5. <hi>That the Elect of God called and ſanctified are the Church of God; And I am ſure that is true, but that wood and ſtone ſhould be ſo called, it ſeems ſtrange to me.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Silv.</speaker>
+               <p>It is ſtrange <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mee that you ſhould be ſuch a ſtran<g ref="char:EOLhyphen"/>ger to the Scriptures <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r the Scriptures often give the name of the thing ſignified to the ſignification of it; ſo our Lord calls the ſignification of his body, His body it ſelfe, in the words, <hi>Take eate, this is my body, Matth.</hi> 26.21. So <hi>Moſes</hi> and <hi>Abraham</hi> both call the ſigne of the Covenant Circum<g ref="char:EOLhyphen"/>ciſion, the Covenant it ſelfe, <hi>Geneſis</hi> 17.10, 11. this is my covenant, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Salomon</hi> alſo calls the houſe hee built for Gods publick worſhip, the Temple, 2 <hi>King.</hi> 11. <hi>And the Temple of the Lord,</hi> 2 <hi>Chro.</hi> 26.16. when it is not ſo properly but by way of alluſi<g ref="char:EOLhyphen"/>on and reſemblance only. For the regenerated ones, the tru<g ref="char:EOLhyphen"/>ly faithful men (are Gods houſe his habitation and dwelling place, as the Scripture ſpeakes, <hi>Yee are the Temple of God,</hi> 1 <hi>Cor.</hi> 3.16. <hi>and againe, for the Temple of God is holy, which Temple yee are,</hi> ver. 17. So likewiſe the materiall houſe is
+<pb n="11" facs="tcp:109524:13"/>called the Church, or the Temple of God alſo: becauſe it is appoynted and ſet apart onely for the holy ſervices of this ſpirituall Temple, there to converſe with God in his holy Ordinances of praying and preaching, and all other his holy ſervices: and in this reſpect hath beene, and may be called a holy place. And ſuch Veſſells and Veſtments holy, in re<g ref="char:EOLhyphen"/>gard of the holy uſe they are ſanctified or ſet apart for. Not that ſtones, wood, mettalls, or cloathes are capable of holi<g ref="char:EOLhyphen"/>neſſe; but they are in Scripture called holy, in regard they are aſſigned to ſerve about Gods holy worſhip: Now as the Temple, and all Veſſells and Veſtments are called holy, in re<g ref="char:EOLhyphen"/>gard of their holy imployment: ſo alſo they are called ho<g ref="char:EOLhyphen"/>ly, in regard of Gods holy preſence, who is more manifeſted preſent, in the place of the adminiſtration of his Ordinan<g ref="char:EOLhyphen"/>ces, than in any other place, and ſo the place is called holy, <hi>Exodus</hi> 31. 1. and Veſtments likewiſe. And ſo is the ground alſo, <hi>Exodus</hi> 3.5. <hi>The place where thou ſtandest is holy ground.</hi> And therefore we ought to have them in a reverent eſteeme and reſpect: <hi>Pull off thy ſhoes,</hi> ſaith the Angel to <hi>Moſes;</hi> Thoſe places and things therefore are not to be com<g ref="char:EOLhyphen"/>mon, as other things and places: wherefore our Miniſters are to be blamed, that they doe not informe the people with the truth of this Doctrine, our Lords owne practice, that onely and alone act of corporall puniſhment, that firſt exe<g ref="char:EOLhyphen"/>cution of Iuſtice, aggravates and argues the fault of the people abundantly, in making the Temple a Market-place. Saint <hi>John</hi> ſaith, <hi>John</hi> 2.15. our Lord made a ſcourge of ſmall cords, and drove them all out of the Temple, and the Sheep, and the Oxen, and poured out the Chan<g ref="char:EOLhyphen"/>gers money, and overthrew their Tables, and ſaid unto them that ſold Doves, take theſe things hence, make not my Fathers houſe a houſe of Merchandize. Marke how
+<pb n="12" facs="tcp:109524:14"/>exact and particular he is in every thing, and how reverently he ſpeakes of the materiall Temple, and calls it his Fathers houſe, and by Saint <hi>Matthew,</hi> The Temple of the Lord: And it is further to be noted, that all the foure Evangeliſts teſtifie to this act of our Saviour, which wrought ſo up<g ref="char:EOLhyphen"/>on their affections, that it is ſaid, <hi>And his Diſciples remem<g ref="char:EOLhyphen"/>bred that it was written, The zeale of thy houſe hath eaten me up, John</hi> 2.17.</p>
+            </sp>
+            <sp>
+               <speaker>Hym.</speaker>
+               <p>
+                  <hi>I thanke you for this ſatisfaction; for theſe paſſages of our Lord are very conſiderable in all the circumstances.</hi>
+               </p>
+               <p>
+                  <hi>I pray let me heare your judgement alſo of the last question, the worſhip it ſelfe both for matter and manner.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sil.</speaker>
+               <p>For the matter of Gods worſhip it is clearly ſet down in both the parts of it by our Lord himſelfe to the <hi>Samari<g ref="char:EOLhyphen"/>tan</hi> woman, <hi>John</hi> 4.23. The houre commeth, and now is, when the true Worſhippers, ſhall worſhip the Father in ſpirit and in truth.</p>
+               <p>God is worſhipped in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>irit and in truth, when Gods Word is read, and the tru<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nſe and meaning opened and made knowne: So <hi>Ezra</hi> the Scribe, and the other Prieſts did truely worſhip God. <hi>Ezra</hi> 8.8. The Text ſaith thus, <hi>So they read in the book in the Law of God distinctly, and gave the ſenſe, and cauſed them to underſtand the reading.</hi> And Saint <hi>James</hi> preaching to the Church at <hi>Jeruſalem</hi> ſaith, <hi>For Mo<g ref="char:EOLhyphen"/>ſes of old time hath in every City them that preach him, being read in the Synagogues every Sabbath day, Acts</hi> 15.21. To this purpoſe ſpeaks our Saviour of the Phariſees, <hi>Matth.</hi> 15.9. <hi>But in vaine doe they worſhip me, teaching for Doctrine the Commandments of men,</hi> undenyably proving, they had worſhipped God truely, if they had taught for Doctrines the Commandments of God.</p>
+            </sp>
+            <sp>
+               <speaker>Hymen.</speaker>
+               <p>
+                  <hi>It is cleare, and proved plainly, that Reading
+<pb n="13" facs="tcp:109524:14"/>and preaching Gods Word, are materiall parts of Gods worſhip, but what are the reſt?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Silv.</speaker>
+               <p>Prayer and prayſes are other parts of Gods pub<g ref="char:EOLhyphen"/>like worſhip, to be performed in the Temple; and eſpe<g ref="char:EOLhyphen"/>cially Prayer; and therefore all the reſt are included in that denomination of prayer; As the Lord ſaith, <hi>It is written, my houſe ſhall be called a houſe of prayer, Matth.</hi> 21.13. Not<g ref="char:EOLhyphen"/>withſtanding it was alſo the houſe of preaching and read<g ref="char:EOLhyphen"/>ing, and prayſing, offering Incenſe, and Sacrifice; and of bleſſing God and the people. And to prove prayſes a part of Gods worſhip, <hi>David</hi> is excellent, <hi>Pſal.</hi> 149. <hi>Sing un<g ref="char:EOLhyphen"/>to the Lord, Sing unto the Lord a new ſong, and his prayſe in the Congregation of Saints.</hi> And <hi>Pſalme</hi> 150. <hi>Praſſe yee the Lord;</hi> And that's not enough, but he appoynts the place too, <hi>Praiſe God in his Sanctuary:</hi> yea, his expreſſions are ſo full of excel<g ref="char:EOLhyphen"/>lent variety, Pſalme 100. <hi>Enter into his Gates with thankes-giving, and into his Courts with prayſe, bee thankfull unto him, and bleſse his name.</hi> And in another place, <hi>My praiſe ſhall bee of thee in the great Congregation, I will pay my vowes before them them that feare him,</hi> Pſalme 22.25. Yea, this worſhip is ſo acceptable both in publike and in private, that the Holy Ghoſt beareth witneſſe that whoſoever offereth praiſe, glo<g ref="char:EOLhyphen"/>rifieth God. Pſal. 50.22.</p>
+            </sp>
+            <sp>
+               <speaker>Hym.</speaker>
+               <p>
+                  <hi>The Scriptures thus conſorting, methinks makes a ſweet harmony; and excellent are theſe conſiderations from them; but I pray proceed to ſhew the other parts of Gods publike worſhip.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sil.</speaker>
+               <p>Friend at this time I will ſpeak onely of the Ordi<g ref="char:EOLhyphen"/>nance of the Lords Supper, becauſe the time will not per<g ref="char:EOLhyphen"/>mit me elſe to make you anſwer concerning the manner of theſe perticulars in their adminiſtrations. Now the commu<g ref="char:EOLhyphen"/>nion of the body of the Lord, as the Apoſtle calls it, is one of the parts of that dayes publick worſhip, Acts 20.7.
+<pb n="14" facs="tcp:109524:15"/>where he proves all that I have ſaid in every particular, to the office of adminiſtration to that hee himſelfe was ordai<g ref="char:EOLhyphen"/>ned, as hee proves to <hi>Timothy,</hi> 1 <hi>Tim.</hi> 2.7. whereunto ſaith he, I am ordained a Preacher and an Apoſtle: And be<g ref="char:EOLhyphen"/>cauſe of the greatneſſe and verity of the office, he there<g ref="char:EOLhyphen"/>fore ſpeaks with the greater teſtimony, ſaying, I ſpeake the truth in Chriſt and lye not, a teacher of the Gentiles in faith and verity: And in the faithfull adminiſtration of the Goſpell, comming to <hi>Troas, Verſe</hi> 6. met together with the Diſciples upon the firſt day of the week, there is the time: And the place is ſaid to bee an upper chamber, where they came together, <hi>verſe</hi> 8. And the matter of their worſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd ſervice is expreſſed to bee preaching and breaking of br<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and conference. And that which is in<g ref="char:EOLhyphen"/>cluded, is prayer, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> giving of thanks; for ſo the ſame A<g ref="char:EOLhyphen"/>poſtle doth prove to the Church of <hi>Corinth,</hi> that our Lord did firſt inſtitute the S<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ent with prayer, 1 <hi>Cor.</hi> 11.23. ſaying, the Lord Ieſus the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he night hee was betrayed, took bread, and when he had g<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>n thanks he brake it, and ſayd, <hi>Take eate, &amp;c.</hi> Yea, praying and bleſſing at the Commu<g ref="char:EOLhyphen"/>nion was this Apoſtles practice in this Church of <hi>Corinth,</hi> as in all other Churches, for ſo he teſtifieth himſelf in imi<g ref="char:EOLhyphen"/>tation to the firſt inſtitution, 1 <hi>Cor.</hi> 10.16. <hi>The cup of bleſ<g ref="char:EOLhyphen"/>ſing which we bleſſe, is it not the Communion of the bloud of Chriſt; the bread which we break, is it not the Communion of the body of Chriſt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Hym.</speaker>
+               <p>
+                  <hi>Theſe are all cleared and manifeſted by plain Scripture: I pray is not the manner of the adminiſtration of theſe particular Ordinances preſcribed in the Scripture alſo?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sil.</speaker>
+               <p>As I have ſhewed before, that I find no forme in the Scriptures for Ordination; neither can I find any Rule preſcribed for the time when to receive the Lords Supper,
+<pb n="15" facs="tcp:109524:15"/>nor the place where, nor the manner how, nor the parti<g ref="char:EOLhyphen"/>cular kind of Wine; nor bread of what graine; nor who ſhall provide them ready; nor the geſture of giving, nor receiving; and yet without theſe we cannot Communi<g ref="char:EOLhyphen"/>cate in them.</p>
+            </sp>
+            <sp>
+               <speaker>Hym.</speaker>
+               <p>
+                  <hi>Some ſay there is a word for all theſe things, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> urge it upon this Scripture, Hebrewes</hi> 1.2, 3. Wherefor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> holy brethren, partakers of the heavenly calling, conſide<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Apoſtle and high Prieſt of our profeſſion, Chriſt I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſus, who was faithfull to him that appoynted him; as al<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Moſes</hi> was faithfull in all his houſe.</p>
+               <p>
+                  <hi>Silv;</hi> If there were a word in the Scripture, they ſhoul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> doe a good office to Gods people, to ſhew them whe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> they may finde them written: I am ſure there is no ſuch thir<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in thoſe words you have read: I know the bold audacio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Browniſts, and the ignorant ſeduced Annabaptiſts, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> both as one enemy, groſſely falſifie and abuſe, wrong a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſpoyle this holy teſtimony, by affirming that Chriſt is m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> perfect and exact in preſcribing an outward forme for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> particulars in Gods publick worſhip under the Goſpell<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Chriſtians, than <hi>Moſes</hi> was under the Law to the Iewes, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> making and ordering every particular, according to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> perfect platforme and patterne which was ſhewed him <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Mount, <hi>Exodus</hi> 25.9. The Holy Ghoſt proves ind<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that <hi>Moſes</hi> was a faithfull ſervant of God, to heare <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> doe the Commandement, the worke of the Sanctua<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Tabernacle, and all the inſtruments, and every ve<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> from the leaſt to the greateſt, even to every pinne th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of, <hi>Exodus</hi> 27.19. And in this compariſon <hi>Moſes</hi> was fa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> full in all his houſe: that is, to make the materiall, or ea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ly Tabernacle; that was but a ſhadow, a repreſentation, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> figure of that ſpirituall, heavenly, true and everlaſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="16" facs="tcp:109524:16"/>Tabernacle, which Chriſt made or built, purchaſed and ſanctified with his owne bloud; wherein Chriſt our Lord was much more faithfull, as a Sonne to make, to redeem, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o bleſſe and ſave his owne houſe. And the Apoſtle to the <hi>Hebrewes</hi> ſhewes what this houſe of the Sonne is, ſaying, whoſe houſe we are, If wee hold faſt the confidence: and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ejoycing of the hope firme unto the end, <hi>Hebrewes</hi> 3.6. Marke how the Apoſtle excells in expreſſing this ſpirituall Houſe, as wee made a deſcrption in our firſt conference <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pon Saint <hi>Peters</hi> words, Page 10. where the Apoſtle <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>alls the building living ſtones; and the houſe it ſelfe, a ſpi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tuall houſe. 1 <hi>Pet.</hi> 2.5.</p>
+            </sp>
+            <sp>
+               <speaker>Hym.</speaker>
+               <p>
+                  <hi>It appeares there is not any ſuch thing in the Text, as <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e Separatiſts <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>abaptiſts doe affirme from it, for the out<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ard Order and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of the Church.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Silv.</speaker>
+               <p>This mak<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Separatiſts bold and auda<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ous; becauſe, that like the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>otten-hearted Phariſees, they <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtifie themſelve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>-ſide of their owne fancy, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d ſo in word onely, never <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> nor heard of in the Scrip<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es; and neglect the inwa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>grace, the truth, and pow<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, that whoſoever hath not, ſhall periſh, <hi>Luke</hi> 13. and <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ark</hi> 16, and 16. And notwithſtanding our Saviours <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>unſell is, Make cleane the in-ſide; and the out-ſide <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll bee cleane alſo. <hi>Matthew</hi> 23.26. And therefore I call <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Anabaptiſts ignorant, and ſeduced, becauſe all this <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ile they have not learned the difference between that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tizme, the putting away the filth of the fleſh, which <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an may have and periſh: And that Baptiſme, the an<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r of a good Conſcience unto God, that whoſoever is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tized with, ſhall be ſaved: the one being called the fi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e or outward figne; the other the ſubſtance that ſaveth, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ward grace. 1 <hi>Pet.</hi> 3.21. which ſubſtance indeed is
+<pb n="17" facs="tcp:109524:16"/>the pu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ifying the heart by Faith, as before I ſhewed at our firſt Conference, Page 8, 9. And ſo ſpeaketh the Apoſtle <hi>Paul</hi> clearly to the <hi>Galatians;</hi> for you are all the children of God by faith in Chriſt Ieſus, for as many as have been Baptized into Chriſt, have put on Chriſt, Chapter 3.26, 27.</p>
+            </sp>
+            <sp>
+               <speaker>Hymen.</speaker>
+               <p>
+                  <hi>Doubtleſſe theſe Scriptures muſt be thus under<g ref="char:EOLhyphen"/>ſtood. I pray Sir informe me what ground the Church of</hi> Eng<g ref="char:EOLhyphen"/>land <hi>hath to preſcribe a rule for the time, and the reſt that con<g ref="char:EOLhyphen"/>cernes the manner of Celebrating the Lords Supper.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Silv.</speaker>
+               <p>But before I ſhew you that, wee will take a brief<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> view, how particular <hi>Moſes</hi> was to give direction, for every circumſtance, as well as for the ſubſtance in Circumciſion and the Paſchall Lambe: And then conſider what rules ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Lord and his Apoſtles have given for Baptiſme, and th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Lords Supper, which are ſignifications and outward ſigne<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the ſame ſubſtance and grace under the Goſpell, as th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> other were Ceremonies, Types and Figures of the ſam<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> heavenly truth under the Law: Therefore the Apoſtl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Paul</hi> to the <hi>Colloſsians</hi> uſes both the termes of Circumciſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> on and Baptiſme, expreſſing one and the ſame life an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> grace in Chriſt, in whom ſaith hee, yee are Circumciſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> with the Circumciſion made without hands in putting <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the body of the ſinnes of the fleſh by the Circumciſio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of Chriſt buried with him in Baptiſme, wherein alſo yo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are riſen with him through the faith of the operation <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> God, &amp;c. <hi>Coloſ.</hi> 2.11, 12. Now <hi>Moſes</hi> ſpeaking of <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> braham,</hi> gives rules for Circumciſion, for the parties wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhall be circumciſed; that is, all the Males: And the tim<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> when, at eight dayes old, <hi>Geneſis</hi> 17.12. And the pla<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> or part of the body, the fore-skin, <hi>Verſe</hi> 11. And th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> parties who ſhall doe it, <hi>Abraham</hi> the Father, <hi>Verſe</hi> 2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="18" facs="tcp:109524:17"/>and <hi>Joſhuah</hi> the <hi>Magiſtrate, Joſ.</hi> 5.3. Alſo for the Paſſeover, which was the ſame to the <hi>Jewes,</hi> as the Lords Supper is to the Chriſtians: He appoynts the time, the tenth day of the moneth, and it ſhall be kept till the 14. day of the ſame moneth; and then appoynts who ſhall kill it, the whole Congregation: and what time of the day, the evening; and who ſhall provide it, that is every houſe; and if the houſhold bee too little, then two Families ſhall joyne toge<g ref="char:EOLhyphen"/>ther; he appoynts what it ſhall be for the kind of it, that is, a Lambe; and not every Lambe, but a Lambe without blemiſh; and not Male or Female, but Male onely; and not of any age, but a Lambe of a yeare old: Alſo he pre<g ref="char:EOLhyphen"/>ſcribes the manner of dreſſing it, not cut to pieces, but whole, his body with his Legges, and with the purte<g ref="char:EOLhyphen"/>nances thereof <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> muſt not be boyled, or baked, but roaſted with <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, and yee ſhall eate the fleſh in that night; And hee preſcribe the manner and geſture how they ſhall eate it, ſaying thus ſhall you eate it, with your Loynes gir<g ref="char:EOLhyphen"/>ded, your ſhooes on your feet, and your ſtaffe in your hand; and you ſhall eate it in haſte, &amp;c. <hi>Exod.</hi> 12. <hi>ult.</hi> For it is the Lords Paſſeover.</p>
+            </sp>
+            <sp>
+               <speaker>Hymen.</speaker>
+               <p>Moſes <hi>hath beene very particular in Gods dire<g ref="char:EOLhyphen"/>ction to</hi> Abraham <hi>concerning Circumciſion; and abundant in the Paſchall Lambe; for every Circumſtance. I pray ſhew me how the Scriptures in the new Teſtament give rules for the Celebration of Baptiſme, and the Lords Supper.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Silvan.</speaker>
+               <p>All the rule wee finde for Baptiſme is in theſe words, <hi>Goe yee therefore, and teach all Nations, Baptizing them in the Name of the Father, the Son, and the Holy Ghoſt,</hi> Matth. 28.19.</p>
+               <p>Here is a plaine direction for the forme of words that are to be uſed, but none for the Action of the Baptizer, nor
+<pb n="19" facs="tcp:109524:17"/>for the geſture of the baptized: ſo wee read the <hi>Eunuch</hi> went downe into the water; but which part of the bodie <hi>Philip</hi> waſhed is not mentioned: neither is there directi<g ref="char:EOLhyphen"/>on for the Sex, nor the age, neither for eight dayes, nor eight yeares; nor of time, place, nor of what ſort of Water, ſalt, or freſh. So for the Lords Supper, the words in the Inſtitution are theſe, <hi>Ieſus tooke bread, and bleſſed it, and brake it, and gave to his Diſciples, and ſaid, Take, eate, this is my body: And hee took the Cup, and gave thanks, and gave it to them, ſaying, Drinke yee all of it, for this is my blond of the new Teſtament, which is ſhed for many, for the remiſsion of ſinnes.</hi> Yet in all theſe words here is no com<g ref="char:EOLhyphen"/>miſſion for his Diſciples, as there is for Baptiſme: Yet Saint <hi>Paul</hi> ſaith, hee hath received Commiſſion from the Lord, concerning the Lords Supper, <hi>1 Corinth.</hi> 11.23. But wee find it not in the Scripture what it ſhould bee: Yea, as I ſayd before, we finde no direction for the Sa<g ref="char:EOLhyphen"/>crament it ſelfe, nor for any circumſtance that concernes the Celebration of it; neither for time, place, nor manner. And ſhall wee ſay therefore that <hi>Moſes</hi> is more faithfull than Chriſt; No ſure, for that I have proved to bee another thing before. But it proves this rather, that under the cleare light of the Goſpell, the truth and ſubſtance of things fore-ſpoken by the Patriarchs and Pro<g ref="char:EOLhyphen"/>phets are ſo evident and apparent, that there needes no ſuch particular directions and ſhadowes, as the dimme and darke Ceremoniall Law required: And that it is left unto the diſcretion of ſuch as are in Authority, rule and government, to appoynt and regulate, as may be moſt for the glory of God, and beſt for the convenience of the place and people.</p>
+            </sp>
+            <sp>
+               <speaker>Hym</speaker>
+               <p>
+                  <hi>What Rule then hath the Church of</hi> England <hi>for
+<pb n="20" facs="tcp:109524:18"/>theſe Ordinances, and all the reſt wee have ſpoken of?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Silv.</speaker>
+               <p>The Statute Law doth order particularly every thing as I have ſhewed you before, of the Miniſters, Of<g ref="char:EOLhyphen"/>ficers, the time, and the worſhip it ſelfe; and of the name of the place: so now I ſhall ſhew you that the Sta<g ref="char:EOLhyphen"/>tutes appoynt the publike place it ſelfe, and for the order and manner of the reſt of the particulars; and how all is agreeable with the word of God, in the Statutes made in the ſecond and third yeare of King <hi>Edward</hi> the ſixth: and the firſt Chapter, the affection of this religious King is there recorded to be ſuch, that hee had an eye and re<g ref="char:EOLhyphen"/>ſpect to the moſt ſincere and pure Chriſtian Religion, taught by the Scriptures, as alſo to the uſages of the Pri<g ref="char:EOLhyphen"/>mitive Chur<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> adviſing with his moſt learned and godly Miniſt<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, ob<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ving the prudent judgement of his beloved Vncl<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rd Protector, the beſt aſſiſtance of his Privie and great Councell of Parliament, with the ayd of the Holy Ghoſt, and with one uniforme agree<g ref="char:EOLhyphen"/>ment is of them concluded, ſet forth and delivered to his great comfort and ſatisfaction of minde, a compoſer containing rules and orders for the regulating of the man<g ref="char:EOLhyphen"/>ner of Gods publick worſhip, in a Booke intituled, the Booke of the Common Prayer, and adminiſtration of the Sacraments; and other Rites and Ceremonies of the Church: as in this, ſo in other Acts, the times and pla<g ref="char:EOLhyphen"/>ces are appoynted, the Perſons to officiate and admini<g ref="char:EOLhyphen"/>ſter, in Praying, prayſing, and reading, and preaching Gods word, the people to aſſemble on Sundayes and Ho<g ref="char:EOLhyphen"/>ly-dayes, upon penalty to bee inflicted by Officers Tem<g ref="char:EOLhyphen"/>porall or Eccleſiaſticall; and that none ſhall deprave, that is, ſpeak ill of, or condemne this Order. 1 <hi>Elizabeth</hi> 2. <hi>Elizabeth</hi> 2.23. <hi>Iacob.</hi> 4. And that the Congregation
+<pb n="21" facs="tcp:109524:18"/>shall behave themſelves quietly, and with civill demeanor and orderly all the time of Gods publike worſhip. <hi>Anno primo Marioe,</hi> the third Chapter, and alſo the rules and order for the particulars for Baptiſme, and the Lords Sup<g ref="char:EOLhyphen"/>per, are contained in the Statutes, that Children of belee<g ref="char:EOLhyphen"/>ving Parents ſhall be baptized, and that there ſhall be wit<g ref="char:EOLhyphen"/>neſſes to teſtifie ſo much, and alſo to promiſe a Chriſtian endeavour for religious inſtruction and education, the form of words that contained in the Commiſſion given to the Apoſtles before mentioned, the manner appoynted, Dip<g ref="char:EOLhyphen"/>ping in, or ſprinkling with water: And ſo alſo for the Sup<g ref="char:EOLhyphen"/>per of the Lord, the Elements, Bread and Wine to be pro<g ref="char:EOLhyphen"/>vided by the Church-wardens, at the charges of the Pa<g ref="char:EOLhyphen"/>riſhoners, the time to be appoynted by the Miniſter, and the people to have notice of it by his directions: An<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as the former, ſo this, to bee bleſſed and adminiſtred by the Paſtor, or Miniſter, in the words of our Lords firſt Inſtitu<g ref="char:EOLhyphen"/>tion, and the people to receive in a praying geſture, both Ordinances being communicated with prayer and thanks<g ref="char:EOLhyphen"/>giuing: for the Veſtments of the Miniſters, and geſture o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> both Miniſter and People are ordered alſo.</p>
+            </sp>
+            <sp>
+               <speaker>Hymen.</speaker>
+               <p>
+                  <hi>But how can you prove to mee that thoſe Ac<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and Ordinances are agreeable, and warrantable by the Word <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> God?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Silv.</speaker>
+               <p>Such Ordinances of men that are not againſt th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Word of God, I am warranted by the Word of God <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> obey, but the Traditions and Ordinances of the Chur<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are no wayes oppoſite, or contrary to GODS Wor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> therefore GODS Word injoynes Chriſtians obedie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thereunto.</p>
+               <p>The generall Rules in Scripture of Traditions for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>der and Decency in the Churches, were onely for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="22" facs="tcp:109524:19"/>things as concerne the publick worſhip of God; which rules are not found expreſt and determined in the Scripture; therefore the Apoſtle 2 <hi>Theſ.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. ſpeakes to the Church of <hi>Theſſalonica,</hi> in words of Dignity, and Authority ſaying, <hi>Now wee command you brethren, in the Name of our Lord Ie<g ref="char:EOLhyphen"/>ſus Chriſt, that you withdraw your ſelves from every brother that walketh diſorderly, and not after the Traditions which hee recei<g ref="char:EOLhyphen"/>ved of us.</hi> Obſerve the holy Apoſtles extraordinary ex<g ref="char:EOLhyphen"/>preſſions, and likewiſe how hee ingages the Lord Ie<g ref="char:EOLhyphen"/>ſus Chriſt in the cauſe, that Order ſhould be obſerved, ac<g ref="char:EOLhyphen"/>cording to Traditions given, which Traditions were not written Scriptures, but things of like nature, as the Apoſtle to the <hi>Corinthians</hi> ſpeakes of, 1 <hi>Cor.</hi> 14. And although of much variety in the Church, yet hee thus would have all <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hings regulated, Let all things be done decently, and in Order: And the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>der and decency is expreſt through<g ref="char:EOLhyphen"/>out the Chapter A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eaching, <hi>verſe</hi> 3.4. which is decla<g ref="char:EOLhyphen"/>red by ſpeaking, by Revelation, by Knowledge, or by Do<g ref="char:EOLhyphen"/>ctrine: And that preaching, and praying, ſinging, and giving thanks are to be in a knowne tongue, to the edifying of the Church, <hi>verſe</hi> 12.15. 17. That alſo the Prophets doe beake one by one, that all may learne, and all may be com<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orted, <hi>verſe</hi> 31. And juſt ſo it was with the Church at <hi>Ie<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uſalem, Acts</hi> 15.7. The Church being met together, it is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yd, <hi>Peter</hi> roſe up and ſpake unto them, as in the 8, 9, 10, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1 Verſes. And in the twelfth Verſe it is ſayd, the multi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de kept ſilence, and gave audience to <hi>Barnabas</hi> and <hi>Paul:</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd after they had held their peace, <hi>Iames</hi> anſwered ſaying, <hi>Men and Brethren hearken unto me, v.</hi> 13. ſo that 4. Apoſtles <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>one meeting prophecyes, but in order, one after another: <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d to this the Apoſtle ſpeakes fully to the <hi>Church</hi> of <hi>Co<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h,</hi> for God is not the Author of confuſion or tumults,
+<pb n="23" facs="tcp:109524:19"/>or unquietneſſe, but of peace, as in all Churches of the Saints. 1 <hi>Cor.</hi> 13.33. So alſo in the next Chapter he gives generall rules to all Churches, <hi>Let your women keep ſilence in the Churches; for it is not permitted to them to ſpeake:</hi> And in another place directions are given for womens habits, that their heads be covered, 1 <hi>Cor.</hi> 11.6 So in the Chap<g ref="char:EOLhyphen"/>ter following he gives many rules about preparation before the sacrament, as concerning our carriage in communi<g ref="char:EOLhyphen"/>cating, where you come together (ſaith he) to eate, tarry one for another: So hee requires knowledge to diſcerne the Lords body: So Temperance and modeſty of beha<g ref="char:EOLhyphen"/>viour, that the Communion may be anſwerable to the thing Communicated in; and thus concludes, <hi>And the reſt will</hi> I <hi>ſet in order when I come:</hi> as doing it by that place and ſenio<g ref="char:EOLhyphen"/>rity he had in the Church: And therefore he ſpeaks in the ſingular number, I will, and not in the plurall: and ſo in ano<g ref="char:EOLhyphen"/>ther place he ſpeaks, as if the care of all the Churches lay upon him, 2 <hi>Cor</hi> 11.28. And as the care was ſpecially in ga<g ref="char:EOLhyphen"/>thering and edifying the Churches by Doctrine; ſo alſo in ordering; therefore he ſaith, as he had given order to the Church of <hi>Galatia</hi> about things that had not beene or<g ref="char:EOLhyphen"/>dered by the Scriptures, even ſo doe yee, ſaith hee to the Church of <hi>Corinth,</hi> 1 <hi>Cor.</hi> 16.1. And he rejoyceth in the holy Order that was in the Church of <hi>Colloſsia,</hi> being much comforted in the order, as well as in the grace it ſelf; in theſe words; for though I be abſent in the fleſh; yet am I with you in the ſpirit, joying and beholding your Or<g ref="char:EOLhyphen"/>der, and the ſtedfaſtneſſe of your faith in Chriſt, <hi>Col.</hi> 2.5. And this was not Saint <hi>Pauls</hi> practice alone, but generall in all Churches by other Apoſtles, Elders, and Evangeliſts, as appeares by his Epiſtle to <hi>Titus,</hi> ſaying; <hi>For this cauſe left I thee in Crete, that thou ſhouldeſt ſet in order the things
+<pb n="24" facs="tcp:109524:20"/>that are wanting, and ordaine Elders in every City, as I had appoynted thee, Titus</hi> 1.5. All which in totall, in what hath beene ſaid, the Apoſtle to the <hi>Theſſalonians</hi> makes a concluſion without any exception, in theſe words, <hi>There<g ref="char:EOLhyphen"/>fore Brethren ſtand ſtaſt, and hold the traditions which yee have beene t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ught, whether by word or by our Epiſtle,</hi> 2 Theſ. 2.15.</p>
+            </sp>
+            <sp>
+               <speaker>Hym.</speaker>
+               <p>
+                  <hi>Theſe Scriptures doe clearly ſhew that the Church hath power to preſcribe Order, and make rules for ſuch things as Gods word doth not particularize, ſo that the traditions be con<g ref="char:EOLhyphen"/>ſonant thereunto.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sil.</speaker>
+               <p>That the rule for reading the Scriptures is agreeable to the Word, I have ſufficiently proved before; but that you may beyond all exception be ſatisfied here, what the A<g ref="char:EOLhyphen"/>poſtle ſaith to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hurches of <hi>Colloſſe</hi> and and <hi>Laodicea:</hi> And when th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> is read amongſt you cauſe that it be alſo read in the Church of the <hi>Laodiceans, Col.</hi> 4.16. And the command of our Lord Chriſt, to ſearch the Scriptures is to read the Scriptures, <hi>Iohn</hi> 5.39. Accor<g ref="char:EOLhyphen"/>ding to that <hi>Matthew</hi> 29. Let him that readeth conſi<g ref="char:EOLhyphen"/>der, as alſo bleſſed is hee that readeth; and they that here the words of this propheſie, and keep thoſe things that are written therein, <hi>Rom.</hi> 1.</p>
+            </sp>
+            <sp>
+               <speaker>Hym.</speaker>
+               <p>
+                  <hi>But what warrant is there for the reading of thoſe parts of the Scriptures appoynted of the Pſalmes, the Chapters, the Epiſtles and Goſpels?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sil.</speaker>
+               <p>If you grant it is warrantable to read them, Order and conveniency calls to authority to appoynt which, and how much, for all the Scriptures cannot be read at one time; therefore it was well done of the Church to divide the Pro<g ref="char:EOLhyphen"/>pheſies of each Prophet that are long, and the Hiſtory of the Evangeliſts, and the Epiſtles of the Apoſtles into ſeve<g ref="char:EOLhyphen"/>rall
+<pb n="25" facs="tcp:109524:20"/>parts or Chapters: and in the uſe we find it profitable, and therefore warrantable, though there be no rule for it in Scripture, but meerely of humane Order: And for the Epiſtles and Goſpells, they are but parts of the Chap<g ref="char:EOLhyphen"/>ters for the moſt part of them, but ſuch portions of Scrip<g ref="char:EOLhyphen"/>tures as doe moſt fit the occaſion, and the time of ſolemne Feaſts, and dayes of humiliation: According to our Sa<g ref="char:EOLhyphen"/>viour Chriſts example, <hi>Luke</hi> 4.17. It is ſaid, there was gi<g ref="char:EOLhyphen"/>ven unto him the Book of the Prophet <hi>Eſayas:</hi> And when he had opened the book, hee found the place wherein it was written, <hi>The ſpirit of the Lord is upon me, becauſe he hath aunoynted me to preach the Goſpell to the poore, he hath ſent me to heale the broken hearted, &amp;c. to preach the acceptable yeare of the Lord.</hi> And when he had read this portion of Scripture, hee cloſed the book, and gave it againe to the Miniſter: By which it is plaine, our Saviour Chriſt ſought in the Propheſie for that part; and ſuch a part it was that fitted the particular occaſion, as himſelfe ſaith, <hi>verſe</hi> 21. <hi>This day is this Scripture fulfilled in your eares.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Hym.</speaker>
+               <p>
+                  <hi>I muſt confeſſe this is cleare to me: But pray ſhew how the Statutes and the Scriptures agree in appointing ſet formes for prayer and prayſes in the Congregation.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sil.</speaker>
+               <p>Authority in appoynting a forme for prayer and prayſes doth not require nothing but ſet formes for the publick, for before and after Sermons; their prayers are left to their owne ordering: and each man is free in regard of any forme impoſed. But the Church, for the better directi<g ref="char:EOLhyphen"/>on of the Miniſter, and edification of the many, doth ap<g ref="char:EOLhyphen"/>poynt, and command ſome to be uſed; but they are ſuch as are both for matter and manner without juſt exception <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> onely obſerving there in words of Truth to the onely tru<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> God; to which we adding our ſpirituall affections, make
+<pb n="26" facs="tcp:109524:21"/>up the true Worſhip of God, in every part of it, as our Lord hath taught us. God is is a ſpirit, and hee that wor<g ref="char:EOLhyphen"/>ſhips God muſt <hi>worſhip him in Spirit and Truth:</hi> Iohn 4.29.</p>
+               <p>T The brevity, ſhortneſſe, and exactneſſe of theſe formes <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f prayer following, are agreeable to the wiſedome of <hi>So<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>omon</hi> his Order, for Gods publike worſhip: <hi>When thou goeſt</hi> (ſaith he) <hi>into the houſe of God, bee not raſh with thy mouth, &amp;c. for God is in heaven, therefore let thy words be few. Eccleſ.</hi> 5.1, 2. And ſuch is the councell of the King of Kings, the wiſedome of wiſedome, <hi>Matth.</hi> 6.7. <hi>When yee pray, uſe no vaine repetition, as the heathen doe, &amp;c. for your father knoweth what things you have need of before you aske him:</hi> According to which, ſee and read the generall Confeſſion of ſinnes; and that, <hi>O God which art the Author of peace, and lover of concord, &amp;c.</hi> As alſo <hi>O Lord our heavenly Father, Almighty and everlaſting God, which haſt ſafely brought us to the beginning of this day, &amp;c.</hi> with the reſt, examine and ſee how plain and full the expreſſions are; ſo briefe, pithy, and pertinent as words can poſſibly bee thought of, termes of ſuch excel<g ref="char:EOLhyphen"/>lent, yet plaine meaning, that the loweſt and meaneſt ca<g ref="char:EOLhyphen"/>pacity, may joyne in affection, that a ſweet harmony may be made by the ſupplication of the whole Congregation in truth, to the God of Truth. Now to prove that ſuch ſet-formes of words are lawfull to pray and invocate God by, the Scriptures are plentifull, both in the Old and new Teſtament, as <hi>Luke</hi> 11.2. The Diſciples deſiring the Lord to teach them to pray, as <hi>Iohn</hi> taught his Diſci<g ref="char:EOLhyphen"/>ples, our Lord ſaith unto them, when yee pray, ſay, <hi>Our Father which art in Heaven, &amp;c.</hi> And he gives them a perfect forme of words. And the example of our Bleſſed Lord himſelfe is left written for our example, <hi>Matthew</hi> 26.44.
+<pb n="27" facs="tcp:109524:21"/>that he prayed the third time the ſame words: Marke it, here is a large conſideration in a ſhort Petition, excellent in brevity, pertinency, fervencie, and importunity: all the men in the world cannot anſwer this command and exam<g ref="char:EOLhyphen"/>ple of our Saviour Chriſt; which gives warrant without controule, that God may be worſhipped truely in a ſet-form of words. I make a generall demand to all oppoſites, whoſoever, If there be any thing alike authentick to the precept and example of our Bleſſed God. Oh how are thoſe men therefore to bee reproved, even withſtood to their faces, that have, and doe preach, that all ſet-formes of Prayer are from the Devill, and firſt invented and found out by him; when that holy man <hi>Moſes,</hi> being led by the Holy Ghoſt every day, morning and evening, when the Congregation journyed, uſed theſe very words conſtant<g ref="char:EOLhyphen"/>ly, when they took up the Arke in the morning, thus hee prayed, <hi>Num.</hi> 10.35, 36. <hi>Riſe up Lord, and let thine enemies bee ſcattered, and let them that hate thee flye before thee.</hi> And every evening when they ſet downe the Arke, or reſted, he ſaid, <hi>Returne, ô Lord, to the many thouſands of Iſrael:</hi> and the very words of <hi>Moſes,</hi> the Prophet <hi>David</hi> writes downe for a forme to be uſed, and ſung in the Temple, many a hundred yeares afterwards, <hi>Pſalme</hi> 68.1. <hi>And the Lord Iehovah com<g ref="char:EOLhyphen"/>mands Moſes, even his ſervant Moſes to give to Aaron, and his Sonnes a ſet forme of words to bleſſe the Congregation with, Num.</hi> 6.22. <hi>And the Lord ſpake to</hi> Moſes, <hi>ſaying, ſpeak unto</hi> Aa<g ref="char:EOLhyphen"/>ron, <hi>and to his ſonnes, ſaying. you ſhall bleſſe the Children of Iſ<g ref="char:EOLhyphen"/>rael, ſaying unto them, The Lord bleſſe thee and keep thee, the Lord Lord make his face to ſhine upon thee, and be gracious unto thee, the Lord lift up his countenance upon thee, and grant thee peace:</hi> Here the Lords Name is three times uſed in one forme of bleſſing: And yet I hope none is ſo ignorant, as
+<pb n="28" facs="tcp:109524:22"/>to ſay it is vaine repitition: So in 150. <hi>Pſalme, Prayſe God</hi> and <hi>Praiſe him,</hi> is uſed thirteene times in ſixe verſes: ſo in 126. <hi>Pſalme</hi> to the praiſe of God theſe words, <hi>For his mer<g ref="char:EOLhyphen"/>cy endureth for ever,</hi> are uſed or repeated twenty and ſix times: ſo in 107. <hi>Pſalme, O that men would therefore praiſe the Lord for his goodneſse, and for his wonderfull workes for the Chil<g ref="char:EOLhyphen"/>dren of men,</hi> where the Prophet in this Pſalme repeats the ſame words foure times: And the Apoſtle for the <hi>Ro<g ref="char:EOLhyphen"/>mans</hi> prayes thus, <hi>The grace of our Lord Ieſus Chriſt bee with you, Rom.</hi> 16.23. and ſo for the Corinthians, 1 <hi>Cor.</hi> 16.23. 2 <hi>Cor.</hi> 13.14. and ſo for the Galatians, <hi>Gal.</hi> 6.18. and ſo for the Philippians, <hi>Phil.</hi> 4.13. and ſo for the Theſſaloni<g ref="char:EOLhyphen"/>ans, 1 <hi>Theſ.</hi> 5.28. 2 <hi>Theſ.</hi> 3.18. And alſo for the Church in <hi>Philemons</hi> houſe, <hi>Phil.</hi> 25. uſing the ſame words of pray<g ref="char:EOLhyphen"/>er and bleſsing eight times for ſix ſeverall Churches: Thus, even thus the Old and New Teſtament agree together in this one truth, as the holy Prophet gives direction, 1 <hi>Chron.</hi> 16.3. 5. Say yee, Save us, O God of our ſalvation, and gather us together, and deliver us from the Heathen, that wee may give thanks to thy holy name, and glory in thy praiſe.</p>
+            </sp>
+            <sp>
+               <speaker>Hym.</speaker>
+               <p>
+                  <hi>That a forme may bee lawfully uſed in Gods publicke worſhip of prayer and prayſe, is a truth ſo fully proved by you, that men nor Angels cannot gain-ſay to diſprove: But I have heard a Miniſter preach it is unlawfull to uſe the Lords prayer, becauſe we find no example for it in any of the Apoſtles.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sil.</speaker>
+               <p>We doe not read that any of the Apoſtles in the act of Baptiſme, repeated all the words commanded by our Lord in the forme of Baptiſme, which are theſe, <hi>Baptizing them in the name of the Father, the Son, and the Holy Ghost:</hi> is it therefore unlawfull for Miniſters to uſe the words, or the Church, to enjoyne them? and is it therefore unlawfull for the Miniſter to uſe the words of our Lord, which he uſed
+<pb n="29" facs="tcp:109524:22"/>at the inſtitution of the Lords Supper, becauſe wee doe not read the Apoſtles did uſe them at the adminiſtration there<g ref="char:EOLhyphen"/>of? They doe no leſſe than the Phariſees their Fathers in denying the lawfull uſe of the Lords Prayer, to make the Commandment of God of none effect by their contra<g ref="char:EOLhyphen"/>ry Traditions, <hi>Matth.</hi> 15.6. And theſe are the laſt dayes, and perillous men and times the Apoſtle fore ſpeaks of, 2 <hi>Tim.</hi> 3. and Saint <hi>Iude</hi> in his generall Epiſtle.</p>
+            </sp>
+            <sp>
+               <speaker>Hym.</speaker>
+               <p>
+                  <hi>Pray let me ſee how the Ordinances for the Sacraments appoynted by authority agree with the Scriptures?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Silv.</speaker>
+               <p>The Traditions and Order that the Church hath preſcribed for the manner of celebrating the Sacraments, are very agreeable to the Scripture, as I have before ſhewed in the manner of the celebration of both, and that there is no circumſtance added the Scripture omits; neither in the admonitions and exhortations appoynted to bee read before the Communion or Baptiſme; nor any thing that concernes Miniſters nor people in the communicating of one, or either, nor the bleſsing in diſmiſsing the Aſſem<g ref="char:EOLhyphen"/>blies, as in particular before inſtanced, but what ſtands with the holy honour and dignity of the ordinances themſelves, and the glory of God. And therefore our Obedience there<g ref="char:EOLhyphen"/>to falls in with this generall rule of the Apoſtle, whether therefore yee eate or drink, or whatſoever you doe, do all to the glory of God, 1 <hi>Cor.</hi> 10.31.</p>
+            </sp>
+            <sp>
+               <speaker>Hym.</speaker>
+               <p>
+                  <hi>Some Miniſters will not adminiſter the Lords Supper to any but ſuch as are regenerated, that ſo by faith they may eate Chriſts body, and drinke his bloud.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sil.</speaker>
+               <p>For any man to preach that none ought to commu<g ref="char:EOLhyphen"/>cate of the communion of the ſignes of the Lords body, but ſuch as have juſtifying faith, by which they are incorpo<g ref="char:EOLhyphen"/>rated into his body, they erre not knowing the Scriptures,
+<pb n="30" facs="tcp:109524:23"/>nor the power of God, as the Anabaptiſts doe in poynt of Baptiſme, for our Saviour himſelf gave it to <hi>Iudas</hi> that never had the faith that juſtifieth: ſo the Apoſtles never denyed the preaching the Word, nor the participation of the Sacra<g ref="char:EOLhyphen"/>ments to any that received the common faith, as Circum<g ref="char:EOLhyphen"/>ciſion; and the Paſſeover was not to be denyed to any that became Proſelites, nor to the Children of ſuch as did be<g ref="char:EOLhyphen"/>lieve. Now I have ſhewed before, that the Paſſeover was the ſame in ſignification to the Iewes, as the Lords Supper is to the Chriſtians; and it is as lawfull for Chriſtians to re<g ref="char:EOLhyphen"/>ceive the Sacrament, as to heare the Word; for as by the Word preached the eare is inſtructed in the Goſpell &amp; way of Life, ſo by the Lords Supper, Chriſt Crucified is taught viſibly to the eye: Now a the Word and Sacrament have a teaching faculty, or operation, ſo alſo they have a nouriſh<g ref="char:EOLhyphen"/>ing, ſtrenthening and confirming faculty, or operation to teach grace where it is not, and to confirme and increaſe it where it is. And there is no rule in all the Scripture to ex<g ref="char:EOLhyphen"/>clude a common Chriſtian from theſe common Ordinan<g ref="char:EOLhyphen"/>ces but in ſuch caſes as concerne the cenſure of excommu<g ref="char:EOLhyphen"/>nication, within which, a true beleever, through weakneſſe, may fall, aſwell as an ordinary or common beleever: and he doth diſcerne the Lords body, that rightly underſtands the Sacrament in one ſence, thereby to bee brought to Chriſt, as hee that by faith eates Chriſts fleſh, and drinks his bloud, in a ſaving and ſpirituall ſenſe: and the word preached to the diſobedient, is the ſavour of death unto death, as is the Ordinance of the Supper of the Lord, to them that never attaine to eate by faith, aſwell as by ſence.</p>
+               <p>And thus I conclude, that no believing man is to be de<g ref="char:EOLhyphen"/>nyed communication in the Supper of the Lord, except in ſuch caſes as the Scripture, and ſo alſo the Traditions of
+<pb n="31" facs="tcp:109524:23"/>the Church hath made exception, according to the exhor<g ref="char:EOLhyphen"/>tation before the Communion.</p>
+            </sp>
+            <sp>
+               <speaker>Hymen.</speaker>
+               <p>
+                  <hi>I am fully ſatisfied hitherto, I pray let me crave you<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> opinion but in one thing more at this time, and that is concerning ſinging of Pſalmes, as it is uſed in the Church of England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sil.</speaker>
+               <p>This part of Gods publick worſhip, as it is uſed i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> our Church, is the moſt corrupt of all other; for althoug<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Church allowes <hi>Pſalmes</hi> to be ſung, yet the Statute-La<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> doth not juſtifie and warrant the Meeter of <hi>Thomas Stern<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> hold</hi> and <hi>Iohn Hopkins,</hi> and others, for they are very corrupt<g ref="char:EOLhyphen"/>ly done, and very falſe, and contrary to the proſe, if you compare one with another: as <hi>Pſalme</hi> 103. <hi>verſe</hi> 19. wher<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Meeter ſaith, <hi>The heavens are the Lords foot-ſtoole:</hi> bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Proſe ſaith not ſo; and other Scriptures ſaith, <hi>The hea<g ref="char:EOLhyphen"/>vens are his Throne, and the earth his foot-ſtoole.</hi> Not only fal<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>fying the text, but alſo that wherein it doth agree in ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> places, the phraſes &amp; expreſſions in the Meeter are imperti<g ref="char:EOLhyphen"/>nent, &amp; not proper. And yet I have heard many Miniſte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> after they have in their Sermons, for an houre together e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>veighed againſt all formes of prayers, and condemned it Hell, that they themſelves have called for a Pſalme to b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſung, which is no other than preſently to do the ſame thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> themſelves, they did condemne others for an houre toge<g ref="char:EOLhyphen"/>ther: And in this caſe the Apoſtle ſpeaks expreſſely, th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> art inexcuſable, O man, whoſoever thou art, it matters no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> whether thou art a Preacher, or a Hearer, yong, or old, ric<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> or poore that judgeſt: for wherein thou judgeſt anothe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thou condemneſt thy ſelfe; for thou that judgeſt, doſt t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſame things. <hi>Rom.</hi> 2.1. For a Pſalme is a prayer, or a pray <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and he that condemnes others in praying a form, condem<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> himſelfe in ſinging a forme.</p>
+            </sp>
+            <sp>
+               <speaker>Hym.</speaker>
+               <p>
+                  <hi>I pray ſhew me how the Scriptures ſpeak of this part Gods worſhip.</hi>
+               </p>
+            </sp>
+            <pb facs="tcp:109524:24"/>
+            <sp>
+               <speaker>Sil.</speaker>
+               <p>The Scriptures declare it to bee a ſpeciall part of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ods worſhip, both publick and private, the Apoſtle ad<g ref="char:EOLhyphen"/>moniſheth the Church of the <hi>Epheſians</hi> to bee filled with <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſpirit, ſpeaking to your ſelves (ſaith he) <hi>in Pſalmes and <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>nes, and ſpirituall ſongs, ſinging, and making melody in your <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> to the Lord, Epheſ.</hi> 5.18, 19. And <hi>David,</hi> that holy Pro<g ref="char:EOLhyphen"/>phet made Pſalmes for the praſſe and glory of God, in ſun<g ref="char:EOLhyphen"/>dry reſpects and occaſions of prayers and prayſes, and gave <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mes to the ſonnes of <hi>Korah</hi> to ſing in the Temple, and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ngs of degrees, <hi>Pſalme</hi> 123. and <hi>Pſal.</hi> 84.</p>
+               <p>It is a ſpirituall ſervice: and the Apoſtle to the <hi>Corinthi<g ref="char:EOLhyphen"/>ans</hi> ſeems to ſpeak of it, as of other miniſteriall gifts for the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ifying of the Church, 1 <hi>Cor.</hi> 13.26. when yee come toge<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er, every one of you hath a Pſalme, a Doctrine, hath a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ongue, hath a Revelation, hath an interpretation: let all <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ings be done to edifying: by which it appears that Pſalms <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſpiritual ſongs, are of continuall ſtudy, practice and uſe the <hi>Churches;</hi> and that ſuch as have gifts therein, may impoſe formes even for the publike uſe of the <hi>Churches,</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Gods worſhip. <hi>Paul</hi> and <hi>Sylas</hi> prayed at mid-night, and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>g Pſalmes and prayſes unto God in Priſon, <hi>Acts</hi> 16.25. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd Saint <hi>Iames</hi> his generall rule is, <hi>is any among you afflict<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> let him pray: is any merry? let him ſing Pſalmes, Iames</hi> 5. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> muſt for this time take my leave, friend <hi>Hymeneus;</hi> the Lord bleſſe unto us the conſideration of theſe things, and all other truthes, to whom be glory, world without end.</p>
+            </sp>
+            <closer>AMEN.</closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:109524:24"/>
+         </div>
+      </body>
+   </text>
+</TEI>
